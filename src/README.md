@@ -9,11 +9,9 @@
         │
         ├── references     <- Data dictionaries, manuals, and all other explanatory references used 
         │
-        ├── tasks          <- Master folder for all individual task folders
-        │
         ├── visualizations <- Code and Visualization dashboards generated for the project
         │
-        └── results        <- Folder to store Final analysis and modelling results and code.
+        └── results and Analysis <- Folder to store Final analysis and modelling results and code.
 
 
 ## Guidelines
